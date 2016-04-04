@@ -1,8 +1,15 @@
 # GettingAndCleaningData
 This is an assignment project for the course "Getting And Cleaning Data" Coursera course. Below are the details of each file in this repository.
+
 #1. Readme.md
 =============
 Thid file describes the purpose of the repository and the details of each file which includes the description of variables, files used, R programming file and the final tidy file.
+
+The script will combine the raw files files provided by Samsung Galaxy S smartphone and provide an average of a subset of observations for each subject.
+
+You can find more information regarding the data set here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+Data set used: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 #2. Codebook.md
 ===============
